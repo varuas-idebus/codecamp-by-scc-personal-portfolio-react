@@ -1,9 +1,9 @@
 export const defaultProfile = {
-  name: "Your Name Here",
-  tagline: "Aspiring developer building something awesome.",
+  name: "Saurav Subedi",
+  tagline: "Building intelligent systems that solve real problems.",
 } as const;
 
 export const profile = {
-  name: "Your Name Here",
-  tagline: "Aspiring developer building something awesome.",
+  name: "Saurav Subedi",
+  tagline: "Building intelligent systems that solve real problems.",
 };

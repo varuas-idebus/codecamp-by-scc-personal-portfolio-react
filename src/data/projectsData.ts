@@ -7,10 +7,10 @@ export type Project = {
 
 export const defaultProjects: Project[] = [
   {
-    title: "Portfolio Remix",
-    description: "A clean single-page portfolio with a surprise theme unlock.",
-    link: "https://example.com",
-    tags: ["React", "CSS"],
+    title: "Food Ordering Systm",
+    description: "A simple food ordering system built with Python",
+    link: "https://www.google.com",
+    tags: ["Python", "CSS"],
   },
   {
     title: "Study Buddy",
